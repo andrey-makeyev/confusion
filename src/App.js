@@ -13,6 +13,7 @@ function App() {
           </NavbarBrand>
         </div>
       </Navbar>
+      <Menu />
     </div>
   );
 }
