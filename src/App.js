@@ -5,7 +5,7 @@ import Menu from './components/MenuComponent';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Navbar dark color="primary">
         <div className='containter'>
           <NavbarBrand href="/">
